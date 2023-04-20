@@ -5,3 +5,8 @@ Description: This is a simple repository to document my recent studies in AI (ma
 # NLP 
 
 1. NLP Course | For You, Elena Voita 2020. https://lena-voita.github.io/nlp_course.html
+2. Transformers Are Secretly Collectives of Spin Systems, Matthias Bal, 2021. https://mcbal.github.io/post/transformers-are-secretly-collectives-of-spin-systems/
+3. Real-World Natural Language Processing: Practical Applications with Deep Learning, 
+4. Illustrated Guide to Transformers Neural Network: A step by step explanation. Michael Phi, 2021. https://www.youtube.com/watch?v=4Bdc55j80l8
+5. Andrej Karpathy Series on NLP: makemore. 2023. https://github.com/karpathy/makemore | https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+6. 
