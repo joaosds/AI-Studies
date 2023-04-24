@@ -9,3 +9,4 @@ Description: This is a simple repository to document my recent studies in AI (ma
 3. Real-World Natural Language Processing: Practical Applications with Deep Learning, Masato Hagiwara, 2021. https://www.manning.com/books/real-world-natural-language-processing
 4. Illustrated Guide to Transformers Neural Network: A step by step explanation. Michael Phi, 2021. https://www.youtube.com/watch?v=4Bdc55j80l8
 5. Andrej Karpathy Series on NLP: makemore. 2023. https://github.com/karpathy/makemore | https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+6. https://www.youtube.com/watch?v=rBCqOTEfxvg&t=946s
